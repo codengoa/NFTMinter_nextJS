@@ -14,3 +14,4 @@ node scripts/sample-script.js
 npx hardhat help
 ```
 # NFTMinter_nextJS
+# NFTMinter_nextJS
