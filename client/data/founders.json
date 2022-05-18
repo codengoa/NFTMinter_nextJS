@@ -1,0 +1,46 @@
+{
+    "founders": [
+        {
+            "name": "InviseeMaster",
+            "image": "/assets/images/bonsicles.png",
+            "title": "Founder",
+            "description": "adfva"
+        },
+        {
+            "name": "Bonsicles",
+            "image": "/assets/images/bonsicles.png",
+            "title": "Web3 Driver",
+            "description": "Sed ut perspiciatis"
+        },
+        {
+            "name": "Bonsicles",
+            "image": "/assets/images/bonsicles.png",
+            "title": "Web3 Driver",
+            "description": "Sed ut perspiciatis unde omnis iste"
+        },
+        {
+            "name": "Bonsicles",
+            "image": "/assets/images/bonsicles.png",
+            "title": "Web3 Driver",
+            "description": "Sed ut perspiciatis unde omnis iste natu"
+        },
+        {
+            "name": "Bonsicles",
+            "image": "/assets/images/bonsicles.png",
+            "title": "Web3 Driver",
+            "description": "Sed ut perspiciatis unde omnis iste nat"
+        },
+        {
+            "name": "Bonsicles",
+            "image": "/assets/images/bonsicles.png",
+            "title": "Web3 Driver",
+            "description": "Sed ut perspiciatis unde omnis i"
+        },
+        {
+            "name": "Bonsicles",
+            "image": "/assets/images/bonsicles.png",
+            "title": "Web3 Driver",
+            "description": "Sed ut perspiciatis unde omnis i"
+        }
+    ]
+}

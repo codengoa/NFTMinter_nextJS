@@ -1,0 +1,70 @@
+.Index{
+    min-height: 95vh;
+    position: relative;
+    /* background:linear-gradient(90deg, rgba(251,113,163,1) 0%, rgba(251,113,128,1) 35%, rgba(251,113,179,1) 100%) */
+}
+
+.Index__imageWrapper{
+    position: absolute;
+    bottom: 0;
+    z-index: 9999;
+    width: 100%;
+    left: 0;
+}
+
+.Index__heroShadow{
+    box-shadow: 10px 10px 0px 0 #000
+}
+
+.Index__imageItem{
+    width:35%;
+}
+
+.Index__imageItem:first-child{
+    right: 0 !important;
+}
+
+.Index__imageItem:nth-child(2){
+    right: 12%;
+}
+
+.Index__imageItem:nth-child(3){
+    right: 24%;
+}
+
+.Index__imageItem:nth-child(4){
+    right: 36%;
+}
+
+.Index__imageItem:nth-child(5){
+    right: 48%;
+}
+
+.Index__imageItem:nth-child(6){
+    right: 60%;
+}
+
+.Index__imageItem:nth-child(7){
+    right: 72%;
+}
+
+.Index__imageItem:nth-child(8){
+    right: 84%;
+}
+
+.Index__imageItem:nth-child(9){
+    right: 80%;
+}
+
+.Index__imageItem:nth-child(10){
+    right: 90%;
+}
+
+.Index__imageItem:nth-child(11){
+    right: 100%;
+}
+
+.Index__gradientBg{
+    background: linear-gradient(to bottom left, #05bdcd 40%, #F9FBFF 100%);
+}
+
